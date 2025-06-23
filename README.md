@@ -145,4 +145,4 @@ SOFTWARE.
 
 ---
 
-> _Note: Images are sample placeholders — you can host final diagrams in your own GitHub repo under `/assets` and update the URLs above._
+> _Note: Images are sample placeholders — 
