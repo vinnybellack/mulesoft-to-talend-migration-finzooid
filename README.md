@@ -71,7 +71,7 @@ As the **Project Manager**, I was responsible for overseeing the full lifecycle 
 - Cloud deployment strategy (Azure, Snowflake, AWS)
 - Integration testing with upstream and downstream systems
 
-![ETL Flow Sample](https://raw.githubusercontent.com/vinnybellack/assets/main/etl-sample-diagram.png)
+![ETL Flow Sample](https://github.com/vinnybellack/mulesoft-to-talend-migration-finzooid/commit/0ebd0855772ce2c6f648dd50723f50707f01f26b#r160603508)
 
 ### Phase 3: UAT & Validation
 - End-user validation and feedback sessions
