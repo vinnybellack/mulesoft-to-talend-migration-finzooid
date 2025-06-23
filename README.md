@@ -5,6 +5,7 @@
 ![Migrated From](https://img.shields.io/badge/from-MuleSoft-orange)
 ![License](https://img.shields.io/github/license/vinnybellack/mulesoft-to-talend-migration-finzooid)
 ![Role](https://img.shields.io/badge/role-Project%20Manager-important)
+![CI](https://github.com/vinnybellack/mulesoft-to-talend-migration-finzooid/actions/workflows/main.yml/badge.svg)
 
 🛍️ **Finzooid Retail Integration Modernization – MuleSoft to Talend** Migration of 140+ MuleSoft applications to a modern Talend-based ecosystem for a US retail client. Focused on improving data quality, debuggability, and scalability across pricing, store, customer, and mobile services using Azure, AWS, and Snowflake.
 # 🛍️ Retail Integration Migration: MuleSoft to Talend
