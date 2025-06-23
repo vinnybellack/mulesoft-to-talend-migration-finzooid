@@ -43,7 +43,7 @@ As the **Project Manager**, I was responsible for overseeing the full lifecycle 
 - Central data warehouse
 - Data quality checks and reporting
 
-![Cloud Architecture Example](https://raw.githubusercontent.com/vinnybellack/assets/main/cloud-architecture-diagram.png)
+![Cloud Architecture Example](https://docs.google.com/document/d/1Yi0Uoe2173IlgoIsUmhJgCnBTm7FOuYpR9eIvoi8XXg/edit?usp=sharing)
 
 ---
 
@@ -88,10 +88,10 @@ As the **Project Manager**, I was responsible for overseeing the full lifecycle 
 ## 📋 Sample Documentation Links
 > _(Hosted internally on Confluence - redacted in public repo)_
 
-- [Architecture Blueprint](https://github.com/vinnybellack/mulesoft-to-talend-migration-finzooid/raw/main/docs/Architecture_Blueprint_Finzooid.docx)
-- Migration Playbook
-- Data Mapping Sheets
-- UAT Test Cases
+- [Architecture Blueprint](https://docs.google.com/document/d/19jlmkZVs4YOVFaLlJY2ilnI5ZZtmqhIZBeMjZpHmWNE/edit?usp=sharing)
+- [Migration Playbook](https://docs.google.com/document/d/1FD2wjWeCdwinmKJNFaj-4ujT6QrZQI2TIsEoF9eKqIY/edit?usp=sharing)
+- [Data Mapping Sheets](https://docs.google.com/spreadsheets/d/1R-W4Oo7OSXfiwCsyD82fX3huza0gfgCnkU4qrofvcqU/edit?usp=sharing)
+- [UAT Test Cases](https://docs.google.com/spreadsheets/d/1_iuKPHsE-oI1J3Zbo4OCEp79oaAp4vP4Wqj9kOuryC8/edit?usp=sharing)
 
 ---
 
