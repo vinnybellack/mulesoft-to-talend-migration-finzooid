@@ -88,7 +88,7 @@ As the **Project Manager**, I was responsible for overseeing the full lifecycle 
 ## 📋 Sample Documentation Links
 > _(Hosted internally on Confluence - redacted in public repo)_
 
-- [Architecture Blueprint](https://raw.githubusercontent.com/vinnybellack/assets/main/Architecture_Blueprint_Finzooid.docx)
+- [Architecture Blueprint](https://github.com/vinnybellack/mulesoft-to-talend-migration-finzooid/raw/main/docs/Architecture_Blueprint_Finzooid.docx)
 - Migration Playbook
 - Data Mapping Sheets
 - UAT Test Cases
