@@ -15,8 +15,8 @@ This repository documents the end-to-end migration of 140+ enterprise integratio
 
 ---
 
-## 👤 Role: Project Manager (Start to End)
-As the **Project Manager**, I was responsible for overseeing the full lifecycle of this 8-month project, including planning, execution, user testing, and delivery. My core responsibilities included:
+## 👤 Role: Associate Project Manager (Start to End)
+As the **Project Associate**, I was responsible for overseeing the full lifecycle of this 8-month project, including planning, execution, user testing, and delivery. My core responsibilities included:
 
 - Sprint planning and delivery tracking in **Jira**
 - Project documentation and knowledge base in **Confluence**
