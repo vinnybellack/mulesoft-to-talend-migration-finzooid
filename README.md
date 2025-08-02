@@ -96,10 +96,10 @@ As the **Project Associate**, I was responsible for overseeing the full lifecycl
 ## 📋 Sample Documentation Links
 > _(Hosted internally on Confluence - redacted in public repo)_
 
-- [Architecture Blueprint](https://docs.google.com/document/d/19jlmkZVs4YOVFaLlJY2ilnI5ZZtmqhIZBeMjZpHmWNE/edit?usp=sharing)
-- [Migration Playbook](https://docs.google.com/document/d/1FD2wjWeCdwinmKJNFaj-4ujT6QrZQI2TIsEoF9eKqIY/edit?usp=sharing)
-- [Data Mapping Sheets](https://docs.google.com/spreadsheets/d/1R-W4Oo7OSXfiwCsyD82fX3huza0gfgCnkU4qrofvcqU/edit?usp=sharing)
-- [UAT Test Cases](https://docs.google.com/spreadsheets/d/1_iuKPHsE-oI1J3Zbo4OCEp79oaAp4vP4Wqj9kOuryC8/edit?usp=sharing)
+- [Architecture_Blueprint_Finzooid.pdf](https://github.com/user-attachments/files/21556619/Architecture_Blueprint_Finzooid.pdf)
+- [Migration_Playbook_Finzooid.pdf](https://github.com/user-attachments/files/21556622/Migration_Playbook_Finzooid.pdf)
+- [Data_Mapping_Sheet_Finzooid.xlsx](https://github.com/user-attachments/files/21556632/Data_Mapping_Sheet_Finzooid.xlsx)
+- [UAT_Test_Cases_Finzooid.xlsx](https://github.com/user-attachments/files/21556634/UAT_Test_Cases_Finzooid.xlsx)
 
 ---
 
